@@ -13,7 +13,8 @@ export default function LanguageSwitcher() {
             {code === "es" ? "Español"
               : code === "en" ? "English"
               : code === "fr" ? "Français"
-              : "Deutsch"}
+              : code === "ca" ? "Catalán"
+              :"Deutsch"}
           </option>
         ))}
       </select>

@@ -34,5 +34,15 @@
     "themeDark": "Wechsel zu Dunkel",
     "home": { "title": "Startseite", "content": "Das ist die deutsche Version." },
     "about": { "title": "Über", "content": "App-Informationen (DE)." }
+  },
+  "ca": { 
+    "nav": {"home": "Inici", "about": "Sobrem nosaltres"},
+    "greeting": "Hola 👋",
+    "language": "Llenguatge",
+    "themeLight": "Canvia a la llum",
+    "themeDark": "Canvia a Fosc",
+    "home": { "title": "Pàgina d'inici", "content": "Aquesta és la versió catalana." },
+    "about": { "title": "Sobre", "content": "Informació de l'aplicació (CA)." }
   }
 }
+
