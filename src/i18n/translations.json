@@ -1,48 +1,54 @@
 {
   "es": {
-    "nav": { "home": "Inicio", "about": "Acerca" },
+    "nav": { "home": "Inicio", "about": "Acerca", "curriculum": "CV" },
     "greeting": "Hola 👋",
     "language": "Idioma",
     "themeLight": "Cambiar a Claro",
     "themeDark": "Cambiar a Oscuro",
     "home": { "title": "Página de inicio", "content": "Esta es la versión en español." },
-    "about": { "title": "Acerca de", "content": "Información de la app (ES)." }
+    "about": { "title": "Acerca de", "content": "Información de la app (ES)." },
+    "curriculum": { "title": "CV", "content": "Información de DL" }
   },
   "en": {
-    "nav": { "home": "Home", "about": "About" },
+    "nav": { "home": "Home", "about": "About", "curriculum": "CV" },
     "greeting": "Hello 👋",
     "language": "Language",
     "themeLight": "Switch to Light",
     "themeDark": "Switch to Dark",
     "home": { "title": "Home Page", "content": "This is the English version." },
-    "about": { "title": "About", "content": "App information (EN)." }
+    "about": { "title": "About", "content": "App information (EN)." },
+    "curriculum": { "title": "CV", "content": "Information about DL" }
   },
   "fr": {
-    "nav": { "home": "Accueil", "about": "À propos" },
+    "nav": { "home": "Accueil", "about": "À propos", "curriculum": "CV" },
     "greeting": "Bonjour 👋",
     "language": "Langue",
     "themeLight": "Passer en clair",
     "themeDark": "Passer en sombre",
     "home": { "title": "Page d’accueil", "content": "Ceci est la version française." },
-    "about": { "title": "À propos", "content": "Infos de l’app (FR)." }
+    "about": { "title": "À propos", "content": "Infos de l’app (FR)." },
+    "curriculum": { "title": "CV", "content": "Informations sur DL" }
   },
   "de": {
-    "nav": { "home": "Start", "about": "Über" },
+    "nav": { "home": "Start", "about": "Über", "curriculum": "CV" },
     "greeting": "Hallo 👋",
     "language": "Sprache",
     "themeLight": "Wechsel zu Hell",
     "themeDark": "Wechsel zu Dunkel",
     "home": { "title": "Startseite", "content": "Das ist die deutsche Version." },
-    "about": { "title": "Über", "content": "App-Informationen (DE)." }
+    "about": { "title": "Über", "content": "App-Informationen (DE)." },
+    "curriculum": { "title": "CV", "content": "Information about DL" }
   },
   "ca": { 
-    "nav": {"home": "Inici", "about": "Sobrem nosaltres"},
+    "nav": {"home": "Inici", "about": "Sobrem nosaltres", "curriculum": "CV"},
     "greeting": "Hola 👋",
     "language": "Llenguatge",
     "themeLight": "Canvia a la llum",
     "themeDark": "Canvia a Fosc",
     "home": { "title": "Pàgina d'inici", "content": "Aquesta és la versió catalana." },
-    "about": { "title": "Sobre", "content": "Informació de l'aplicació (CA)." }
+    "about": { "title": "Sobre", "content": "Informació de l'aplicació (CA)." },
+    "curriculum": { "title": "CV", "content": "Informació de DL" }
   }
+
 }
 

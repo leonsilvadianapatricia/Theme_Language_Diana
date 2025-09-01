@@ -8,6 +8,7 @@ export default function Nav() {
     <nav style={{ display: "flex", gap: 12, marginBottom: 16 }}>
       <Link to={buildPath(lang)}>{t.nav.home}</Link>
       <Link to={buildPath(lang, "about")}>{t.nav.about}</Link>
+      <Link to={buildPath(lang, "curriculum")}>{t.nav.curriculum}</Link>
     </nav>
   );
 }
